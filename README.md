@@ -66,7 +66,7 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
-You can deploy this bot anywhere.
+You can deploy this bot anywhere.(https://github.com/CinemaStudio93/-CinemaStudio93bot) 
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/zD5U8BrdnGA)**</i>
 
